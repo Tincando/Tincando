@@ -13,7 +13,7 @@
 - ❓ The More I Learn, The Less I Know  
   
 
-- ⚡ Fun fact: I like to play guitar and paint in my free time   
+- ⚡ Fun fact: My profile image is generate by AI   
   
 
 <br/>  
@@ -104,4 +104,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
