@@ -1,10 +1,10 @@
 **<div align="center">Greetings 👋</div>**  
   
 
-### <div align="center">I'm Tin, an IT student  👨‍🎓, trying to learn as much as I can 👨‍💻  </div>  
+### <div align="center">👩‍💻 I'm Tin Bachelor of Information Technology | Passionate Programmer 🚀 | Creative Soul 🎨🎸  </div>  
   
 
-- 🔭 I’m currently working on my bachelor's degree  
+- 🔭 I excel in database management, harnessing the power of SQL and MongoDB to organize and extract valuable insights from data.
   
 
 - 🌱 I’m currently learning MongoDB and Flutter  
@@ -13,7 +13,7 @@
 - ❓ The More I Learn, The Less I Know  
   
 
-- ⚡ Fun fact: My profile image is generate by AI   
+- ⚡ Fun fact: I also have a degree in dentistry  
   
 
 <br/>  
